@@ -27,7 +27,7 @@ d = random.randint(1, 101)
 numberList = [a, b, c, d]
 print(max(numberList))
 
-#dsiplay function
+#display function
 nombreLePlusGrand(number1, number2, number3, number4)
 
 #ex2 Condition d'age
